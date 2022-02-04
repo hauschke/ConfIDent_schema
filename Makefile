@@ -5,7 +5,7 @@
 # Model documentation and schema directory
 # ----------------------------------------
 SRC_DIR = model
-PKG_DIR = confident_schema
+PKG_DIR = ConfIDent_schema
 SCHEMA_DIR = $(SRC_DIR)/schema
 MODEL_DOCS_DIR = $(SRC_DIR)/docs
 SOURCE_FILES := $(shell find $(SCHEMA_DIR) -name '*.yaml')
