@@ -1,5 +1,5 @@
 id: https://raw.githubusercontent.com/StroemPhi/ConfIDent_schema/main/model/schema/confident_schema.yaml
-name: confident_schema
+name: ConfIDent_schema
 description: |-
   This is a schema for the ConfIDent project that describes the necessary metadata requirements of academic events and event series.
 license: https://creativecommons.org/licenses/CC-by4.0

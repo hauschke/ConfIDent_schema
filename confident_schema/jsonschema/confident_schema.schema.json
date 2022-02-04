@@ -259,7 +259,7 @@
    "additionalProperties": true,
    "properties": {},
    "required": [],
-   "title": "confident_schema",
+   "title": "ConfIDent_schema",
    "type": "object"
 }
 
